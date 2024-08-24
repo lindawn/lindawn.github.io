@@ -5,18 +5,16 @@
 layout: home
 title: ''
 ---
-I'm Dawn, a dedicated *Edge Computing Software Engineer* at **Dell EMC** based in Singapore. Previously, I worked in numerous tech startups in various stages of development, which have allowed me to thrive in dynamic and innovative environments, building upon the strong foundation in computing concepts from my time at the National University of Singapore (NUS).
-
-At this point in my career, I am particularly interested in Operating Systems, as I simply think that they are neat :)
+I'm Dawn, a Masters student at the *Institut Polytechnique de Paris*, specializing in Cyber-Physical Systems. 
 
 ---
 
 ## Experience
-The following are some milestones in my career that I have been extremely proud of.
+The following are some proud milestones of my career so far.
 
 **Dell EMC, Singapore (Edge Computing)**  — *Software Engineer*
 {: .resume-title}
-Aug 2021- present
+Aug 2021- Feb 2024
 {: .resume-date}
 - Enhanced the security of microservices on **Kubernetes clusters**, that orchestrated up to *400 devices*, by designing and implementing **Golang/GraphQL** services based on *zero trust principles*
 - Designed and implemented **Angular** micro-frontend, interfacing with various microservices, enabling clients to effectively manage complex deployments
@@ -57,21 +55,27 @@ Apr 2019 - Aug 2019
 
 ---
 
-## Certifications and Projects
+## Education
 
-During my down time, I like to work on projects to keep up with tech skills, and pursue certifications.
+**National University of Singapore (NUS)** — *Bachelor of Computing*
+{: .resume-title}
+Aug 2017 - June 2021
+{: .resume-date}
 
-I am a **Certified Kubernetes Application Developer (CKAD)**, and due for my **Linux Foundation Certified System Administrator (LFCS)** test soon. 
 
-My current side project is a *Telegram bot* running on a *Raspi Zero* that I use to track my progress at the gym! The data is stored locally in MongoDB, and I am working on designing a suitable visualisation board on Grafana.
+**Institut Polytechnique de Paris (IPP)** — *Masters in Cyber-Physical Systems*
+{: .resume-title}
+Sep 2024 - present
+{: .resume-date}
 
 ---
 
-## Skills
+## Competencies
+- **Certifications**: Certified Kubernetes Application Developer *(CKAD)*
 - **Backend**: .NET Core (C#), Node JS, Golang, GraphQL, Java EE, Postgres, MongoDB/PyMongo
 - **Frontend** : Angular, React, Typescript, HTML/CSS/JS
-- **Scripting Languages** : Python, Bash
+- **Scripting** : Python, Bash
 - **Deployment**: Kubernetes, Helm, Docker
-- **Operating Systems**: OpenSUSE, SLE Micro, Ubuntu (Server/Desktop), Raspi
+- **Operating Systems**: OpenSUSE, SLE Micro, Ubuntu (Server/Desktop), Debian
 - **Virtualization**: Libvirt, QEMU, KVM
 - **Data Visualisation**: Grafana, InfluxDB, Mapbox
