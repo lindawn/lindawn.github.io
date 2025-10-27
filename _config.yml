@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ''
-welcome: 'Hello and welcome!'
-email: tan.lin.dawn@gmail.com
+title: 'Tan Lin, Dawn'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  lindawn
+github_username: lindawn
 
 # Build settings
 remote_theme: mmistakes/so-simple-theme
@@ -33,7 +31,7 @@ remote_theme: mmistakes/so-simple-theme
 
 domain: lindawn.github.io
 url: https://lindawn.github.io
-logo: "/images/headshot.png"
+# logo: "/images/headshot.png"
 
 
 

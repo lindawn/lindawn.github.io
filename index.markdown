@@ -4,13 +4,24 @@
 
 layout: home
 title: ''
----
-I'm Dawn, a Masters student at the *Institut Polytechnique de Paris*, specializing in Cyber-Physical Systems. 
+
 
 ---
 
-## Experience
-The following are some proud milestones of my career so far.
+---
+
+
+
+## Work Experience
+
+**Télécom SudParis, France**  — *Research Intern*
+{: .resume-title}
+Apr 2025 - Aug 2025
+{: .resume-date}
+- Integrated Linux resource monitoring tools (Blktrace, perf) into [FaaSLoad](https://gitlab.com/faasload/faasload), a FaaS research tool that collects hardware resource consumption metrics of individual functions of distributed systems.
+- Designed and implemented the migration of the Docker-based system into a Kubernetes native one
+- Designed and executed experiments on existing software power monitoring meters (PowerAPI)  to investigate the limits of the Linux power capping framework
+
 
 **Dell EMC, Singapore (Edge Computing)**  — *Software Engineer*
 {: .resume-title}
