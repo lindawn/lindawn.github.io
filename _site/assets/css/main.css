@@ -4,6 +4,16 @@
  * Free for personal and commercial use under the MIT license
  * https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
 */
+.ad-block-alert { width: 30%; position: sticky; float: right; right: 20px; bottom: 0; shape-outside: linear-gradient(transparent, transparent); }
+
+.auto-close { -webkit-animation: cssAnimation 4s forwards; animation: cssAnimation 4s forwards; }
+
+@keyframes cssAnimation { 0% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { opacity: 0; } }
+@-webkit-keyframes cssAnimation { 0% { opacity: 1; }
+  90% { opacity: 1; }
+  100% { opacity: 0; } }
 .resume-date { font-size: 0.75em; font-family: "Lora", serif; font-style: italic; white-space: nowrap; }
 
 .resume-title { margin-bottom: 0.15rem; }
